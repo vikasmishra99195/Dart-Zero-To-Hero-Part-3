@@ -15,7 +15,7 @@ void main(){
   // print(list2);
 
   // var list3 = ["Vikas", 10, 20, "Shiv"];
-  // list3.add("Aman");                     ##  .add function is use dto add new element in list
+  // list3.add("Aman");                     ##  .add function is used to add new element in list
   // list3.add("Swapna");                   ##  . Hew also .add function is used to store new element
   // print(list3);
 
