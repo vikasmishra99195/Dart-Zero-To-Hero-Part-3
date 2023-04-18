@@ -52,6 +52,29 @@ void main(){
   // names.insertAll(2, list1);                   ## insertAll() is used to store the element of an specific list
   // print(names);
 
+  // # update list value
+
+  // var list2 = ["arjan", "Akaash"];
+  // list2 [0] = "arjun";              ## used to update an element
+  // list2 [1] = "Akash";
+
+  // ## replace list value
+
+  // var list3 = ["Vikas", "Carry", "Shiv", "Anmol"];
+  // list3.replaceRange(0, 2, ["carry", "Naux", "Python"]);    ## replaceRange used to replace value of list
+  // print(list3);
+
+  // ## removeRange is used to remove value from list
+
+  // var list3 = ["Vikas", "Carry", "Shiv", "Anmol", "Swapna"];
+  // list3.removeRange(1, 4);
+  // print(list3);
+
+
+
+
+
+
 
 
 }
