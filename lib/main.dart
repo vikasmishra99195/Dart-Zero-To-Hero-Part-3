@@ -71,6 +71,9 @@ void main(){
   // print(list3);
 
 
+  // smilarly use remove(), RemoveAt(), removeLast() in list
+
+
 
 
 
