@@ -71,7 +71,26 @@ void main(){
   // print(list3);
 
 
-  // smilarly use remove(), RemoveAt(), removeLast() in list
+  // ## smilarly use remove(), RemoveAt(), removeLast() in list
+
+  // ##
+
+  // var list3 = ["Vikas", "Carry", "Shiv", "Anmol", "Swapna"];
+  // print("Lenght ${list3.length}");             ## show the lenght of list
+  // print("Reversed ${list3.reversed}");         ## reverse the list
+  // print("first ${list3.first}");               ## show only first element
+  // print("Last ${list3.last}");                 ## show only last element
+  // print("isNotEmpty ${list3.isNotEmpty}");     ## show the list is not empty
+  // print("isEmpty ${list3.isEmpty}");           ## show the list is empty
+
+  // output :
+
+  // Lenght 5
+  // Reversed (Swapna, Anmol, Shiv, Carry, Vikas)
+  // first Vikas
+  // Last Swapna
+  // isNotEmpty true
+  // isEmpty false
 
 
 
